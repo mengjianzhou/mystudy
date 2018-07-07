@@ -1,0 +1,1 @@
+### 1. 一个基本的使用AnnotationConfigApplicationContext获取bean的例子
